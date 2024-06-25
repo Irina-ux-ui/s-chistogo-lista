@@ -102,7 +102,7 @@ body {
 }
 
 .intro__title {
-  color: var(--text-gray, #ccc);
+  color:  #ccc;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -112,7 +112,7 @@ body {
 
 .intro__date {
   white-space: nowrap;
-  color: var(--text-gray, #ccc);
+  color: #ccc;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 16px;
   font-style: normal;
@@ -135,7 +135,7 @@ body {
 }
 
 .content-section__subtitle {
-  color: var(--black-bg, #131313);
+  color: #131313;
   font-family: "EB Garamond", "Times", serif;
   font-size: 28px;
   font-style: normal;
@@ -144,7 +144,7 @@ body {
 }
 
 .content-section__introduction {
-  color: var(--black-bg, #131313);
+  color: #131313;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 20px;
   font-style: normal;
@@ -162,7 +162,7 @@ body {
 
 .content-section__list-item {
   flex: 1 0 0;
-  color: var(--black-bg, #131313);
+  color: #131313;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 16px;
   font-style: normal;
