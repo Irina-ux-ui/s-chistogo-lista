@@ -42,7 +42,7 @@ body {
 }
 
 .header__menu-link {
-  color: #f5f5f5;
+  color: #fff;
 }
 
 .header__menu-list {
@@ -55,7 +55,7 @@ body {
 
 .header__menu-item_active {
   text-decoration: none;
-  color: #f5f5f5;
+  color: #fff;
 }
 
 .cover {
@@ -88,6 +88,7 @@ body {
 
 .text-right {
   text-align: right;
+  padding: 24px;
 }
 
 .intro {
@@ -150,7 +151,7 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: 135%;
-  margin: 32px 0px;
+  padding: 32px 0px;
 }
 
 .content-section__list {
@@ -168,6 +169,7 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: 135%;
+  margin: 0 0 16px;
 }
 
 .content-section__list-accent {
@@ -302,7 +304,7 @@ body {
 
 .content-section_theme_dark {
   background-color: #131313;
-  color: #f5f5f5;
+  color: #fff;
 }
 
 .content-section_theme_bright {
